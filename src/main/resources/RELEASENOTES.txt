@@ -1,0 +1,20 @@
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Name:         ${name}
+# Koordinaten:  ${groupId}:${artifactId}:${version}
+# Archivtyp:    ${packaging}
+# Archivname:   ${project.build.finalName}.${packaging}
+# Build-Time:   ${BuildTime}
+# Build-Nummer: ${buildNumber}
+# JDK:          ${java.version}
+#
+# $Id$
+#
+# Copyright (c) 2014 by funksem
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+0.0.1 - 27.01.2014
+---------------------------------------------------------------------------------------------------
+- initial version
+ 

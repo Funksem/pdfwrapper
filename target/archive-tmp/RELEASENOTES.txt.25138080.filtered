@@ -1,0 +1,20 @@
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Name:         de.funksem.pdfwrapper
+# Koordinaten:  de.funksem:de.funksem.pdfwrapper:0.0.1-SNAPSHOT
+# Archivtyp:    jar
+# Archivname:   de.funksem.pdfwrapper-0.0.1-SNAPSHOT.jar
+# Build-Time:   20140128-1818
+# Build-Nummer: ${buildNumber}
+# JDK:          1.7.0_11
+#
+# $Id$
+#
+# Copyright (c) 2014 by funksem
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+0.0.1 - 27.01.2014
+---------------------------------------------------------------------------------------------------
+- initial version
+ 
